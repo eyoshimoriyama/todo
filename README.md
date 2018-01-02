@@ -2,7 +2,7 @@
 
 Dynamic and database-driven jQuery implementation of the [TodoMVC](http://todomvc.com/) project app.
 
-Check out the [todo app]](https://todo-yoshi.herokuapp.com/).
+Check out the [todo app](https://todo-yoshi.herokuapp.com/).
 
 ____
 ### Implementation Details:
