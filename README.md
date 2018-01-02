@@ -1,24 +1,12 @@
-# README
+# Todo - Single-Page Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Dynamic and database-driven jQuery implementation of the [TodoMVC](http://todomvc.com/) project app.
 
-Things you may want to cover:
+Check out the [todo app]](https://todo-yoshi.herokuapp.com/).
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+____
+### Implementation Details:
+* Built on Ruby on Rails framework
+* TDD using RSpec & Factory Bot gems
+* RESTful JSON API from Rails to fetch data
+* JavaScript/jQuery for dynamic content updates
